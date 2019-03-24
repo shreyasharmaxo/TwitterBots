@@ -1,2 +1,2 @@
 # TwitterBots
-IGL - generating language on twitter
+Generating language on twitter
